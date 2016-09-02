@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Assignment Number 11
-Code to run over the data in the 'bigPart.txt' file.
-
 Author: Mrugen Anil Deshmukh (mad5js)
 Date Created: 24 April 2016
 """
